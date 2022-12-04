@@ -7,5 +7,5 @@ In this project I had  access to dataset from LendingClub, a peer-to-peer lendin
 
 
 #### Resources <br/>
-• Data Source: [Google](https://www.google.com/), [LendingClub Credit Card Credit Dataset]() <br/> 
+• Data Source: [Google](https://www.google.com/), [LendingClub Credit Card Credit Dataset](https://github.com/Valeriia161/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.zip) <br/> 
 • Software: Jupiter, Python, Git Bash, GitHub. <br/>
