@@ -45,7 +45,8 @@ Using knowledge of the imblearn.ensemble library, I trained and compared two dif
 <img src="https://user-images.githubusercontent.com/110998103/205533325-fb474ef4-9a7d-425c-a4a4-6f9c90c9a522.png" width=50% height=50%>
 
 
-## `Summary`
-
+## `Summary` <br/>
+Easy Ensemble AdaBoost Classifier outperformed the other models with an accuracy score of 93.15% while the other models were below 65%. But we should be extremely cautious about the 9 percent precision that it provides for High Risk Loans in the Easy Ensemble Adaboost Classifier.
+Also The Easy Ensemble AdaBoost Classifier had the highest recall score, making it the best Machine Learning Model to choose for further credit card analysis.
 
 
